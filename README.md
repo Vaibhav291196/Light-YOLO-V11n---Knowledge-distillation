@@ -1,4 +1,4 @@
-# 🌱 AgroKD-Net: Distilled & Lightweight YOLOv11n for Weed Detection
+# 🌱 AgroKD-Net: Distilled & Lightweight YOLOv11n for Weed Detection 
 
 ## 📌 Overview
 
